@@ -1,1 +1,1 @@
-[![Clics](https://hits.dwyl.com/nnintendhoe/clicks-badge.svg?style=flat-square&color=white&label=%F0%9F%AA%BD)](https://hits.dwyl.com/nnintendhoe/clicks-badge)
+[![Clics](https://img.shields.io/badge/dynamic/json?style=flat-square&color=white&label=%F0%9F%AA%BD&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fnnintendhoe%2Fclicks)](https://api.countapi.xyz%2Fhit%2Fnnintendhoe%2Fclicks)
