@@ -3,5 +3,5 @@
     <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=%F0%9F%AA%BD&labelColor=black&color=grey&query=%24.count&url=https%3A%2F%2Fapi.counterapi.dev%2Fv1%2Fnnintendhoe%2Fclicks" alt="Clics">
   </a>
   <br><br>
-  <img src="https://i.pinimg.com/originals/b6/c5/30/b6c53034252a7479c112af582350c5de.gif" alt="Mi GIF">
+  <img src="https://i.pinimg.com/originals/1f/8c/9b/1f8c9bc213b286f01f5aafda47e2a19d.gif" alt="Mi GIF">
 </p>
