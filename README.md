@@ -16,10 +16,6 @@
 </p>
 
 <p align="center">
-  <!-- Texto en cursiva de abajo -->
-  <i>there's hidden hawks here</i>
-</p>
-
 <p align="center">
   <!-- Foto centrada -->
   <img src="https://cdn.phototourl.com/free/2026-07-19-568d3e59-b20a-48ca-ad85-015de0fcb419.jpg" alt="Foto">
