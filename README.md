@@ -10,9 +10,8 @@
 
 <p align="center">
   <!-- Enlaces colocados -->
-  <a href="https://comolomueveesamuchachota.atabook.org/"><i>ATABOOK</i></a> • 
-  <a href="https://discord.com/"><i>DISCORD: nynyi</i></a> • 
-  <a href="https://gonorrea.straw.page/"><i>STRAWPAGE</i></a>
+  <a href="https://comolomueveesamuchachota.atabook.org/"><i>atabook</i></a> • 
+  <a href="https://gonorrea.straw.page/"><i>strawpage</i></a>
 </p>
 
 <p align="center">
